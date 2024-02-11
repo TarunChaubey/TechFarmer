@@ -13,3 +13,11 @@ body {
     font-size: 18px;
     color: #666;
   }
+
+  .menu-bar {
+    margin-top: 1cm; /* 1 cm margin from top */
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f5f5f5;
+    font-family: sans-serif;
+}
